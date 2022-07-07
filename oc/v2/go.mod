@@ -1,3 +1,3 @@
-module github.com/almamedia/talent-news-base/oc/v2
+module github.com/yliraju/monorepo-tagging/oc/v2
 
 go 1.18

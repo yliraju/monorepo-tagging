@@ -1,3 +1,3 @@
-module github.com/almamedia/talent-news-base/slacker
+module github.com/yliraju/monorepo-tagging/slacker
 
 go 1.18
