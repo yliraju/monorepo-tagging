@@ -3,5 +3,5 @@ package oc
 func main() {}
 
 func Test() string {
-	return "Ajatus ois, etta tama tulisi tagista oc/2.0.0"
+	return "Ajatus ois, etta tama tulisi tagista oc/2.0.1"
 }
